@@ -1,6 +1,8 @@
 IR 5 Buttons Sender
 ===================
 
+![Schema](schema.png)
+
 Install Arduino CLI
 -------------------
 
