@@ -1,11 +1,11 @@
 #include <IRremote.h>
 
 IRsend irsend;
-const int button1Pin = 2;
-const int button2Pin = 3;
-const int button3Pin = 4;
-const int button4Pin = 5;
-const int button5Pin = 6;
+const int button1Pin = 4;
+const int button2Pin = 5;
+const int button3Pin = 6;
+const int button4Pin = 7;
+const int button5Pin = 8;
 
 void setup()
 {
